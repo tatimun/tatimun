@@ -3,8 +3,9 @@
 <div align="center">
 
 -----
+  
 
-<img align="left" width="300px" src="./img/giphy%20(1).gif" >
+<img align="left" width="300px" src="https://github.com/TatianaMunoz1/TatianaMunoz1/blob/main/img/giphy%20(1).gif" >
 
 
 <p align="left">
@@ -19,6 +20,7 @@
 </tb>
 
 ### 
+  
 - 👩🏻‍💻 Currently, in the way to become a DevOps Engineer. This account is main to be my pandora box for my learning path 
 - 🌱 Now working as Cloud Engineer
 - 💪🏻 Future goals: DevSecOps role
