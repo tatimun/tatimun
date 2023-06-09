@@ -19,9 +19,9 @@
 </tb>
 
 ### 
-- 👩🏻‍💻 Studying Computer Systems in Universidad Nacional de Lanus, Argentina.
-- 🌱 Cloud Engineer
-- 💪🏻 Future goals: Learn more technologies
+- 👩🏻‍💻 Currently, in the way to become a DevOps Engineer. This account is main to be my pandora box for my learning path 
+- 🌱 Now working as Cloud Engineer
+- 💪🏻 Future goals: DevSecOps role
 - ⚡ Fun fact: Big fan of Pixel Art 👾
 -------
 
@@ -31,7 +31,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatianamunoz1&layout=compact)](https://github.com/tatianamunoz1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titamun&layout=compact)](https://github.com/titamun)
 
 
 
@@ -41,5 +41,5 @@
 <!-- ----------------------------------------------------------------------- -
 <details>
 <summary>
-  <a href="https://github.com/tatianamunoz1"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
+  <a href="https://github.com/titamun"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
 </summary>->  
