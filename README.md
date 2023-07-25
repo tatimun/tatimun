@@ -1,47 +1,41 @@
-<tb>
-<h1 align="center"> Hello world! <h1>
-<div align="center">
+## 👋 &nbsp;Hey! Im Tati
 
------
-  
+### 👨🏻‍💻 &nbsp;About Me
 
-<img align="left" width="300px" src="https://github.com/TatianaMunoz1/TatianaMunoz1/blob/main/img/giphy%20(1).gif" >
+💡 &nbsp;I like to learn as a hobbie so i take a lot of courses.\
+🎓 &nbsp;I'm currently studying Computer Science in Universidad Nacional de Lanus in Argentina.\
+🌱 &nbsp;I'm on track for learning more about DevOps, CyberSecurity and Cloud .\
+✍️ &nbsp;In my free time, I like to draw and do some DIY related to clothes.
+👷‍♀️ &nbsp; Currently, im working as Cloud Engineer 
 
 
-<p align="left">
-  <a href="mailto:apuntatis@gmail.com">
-    <img src="https://img.shields.io/badge/-titamun@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:apuntatis@gmail.com" />
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Tita %232526-6633cc?style=flat-square&logo=Discord&logoColor=white" />
-  </a>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/titamun">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=titamun&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
 </p>
-</tb>
 
-### 
-  
-- 👩🏻‍💻 Currently, in the way to become a DevOps Engineer. This account is main to be my pandora box for my learning path 
-- 🌱 Now working as Cloud Engineer
-- 💪🏻 Future goals: DevSecOps role
-- ⚡ Fun fact: Big fan of Pixel Art 👾
--------
+### 🤝🏻 &nbsp;Connect with Me
 
-
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titamun&layout=compact)](https://github.com/titamun)
-
-
-
-
-<hr/>
-
-<!-- ----------------------------------------------------------------------- -
-<details>
-<summary>
-  <a href="https://github.com/titamun"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
-</summary>->  
+<p align="center">
+<a href="https://linkedin.com/in/titamun"><img src="https://img.shields.io/badge/-Tatiana%20Mun-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:apuntatis@gmail.com"><img src="https://img.shields.io/badge/-apuntatis@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.behance.net/TatianaSMunoz"><img src="https://img.shields.io/badge/-@Tatiana-Munoz?style=flat-square&logo=Behance&logoColor=white"/></a>
+</p>
