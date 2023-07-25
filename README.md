@@ -9,7 +9,7 @@
 👷‍♀️ &nbsp; Currently, im working as Cloud Engineer 
 
 
-<img alt="Night Coding" src="https://github.com/titamun/titamun/blob/main/Assets/CodingGif.gif?raw=true" align="right"/>
+<img alt="Night Coding" src="https://github.com/titamun/titamun/blob/main/Assets/CodingGif.gif?raw=true" align="center"/>
 
 ### 🛠 &nbsp;Tech Stack
 
