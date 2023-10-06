@@ -19,7 +19,7 @@ I know a little bit of everything but still learning to improve them
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/titamun">
+<a href="https://github.com/tatimun">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=titamun&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
@@ -27,7 +27,7 @@ I know a little bit of everything but still learning to improve them
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/titamun"><img src="https://img.shields.io/badge/-Tatiana%20Mun-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/tatianasmunoz"><img src="https://img.shields.io/badge/-Tatiana%20Mun-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:apuntatis@gmail.com"><img src="https://img.shields.io/badge/-apuntatis@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.behance.net/TatianaSMunoz"><img src="https://img.shields.io/badge/-@Tatiana-Munoz?style=flat-square&logo=Behance&logoColor=white"/></a>
 </p>
