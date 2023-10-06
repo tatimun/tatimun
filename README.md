@@ -9,7 +9,7 @@
 👷‍♀️ &nbsp; Currently, im working as Cloud Engineer 
 
 
-<img alt="Night Coding" src="https://github.com/titamun/titamun/blob/main/Assets/CodingGif.gif?raw=true" align="center"/>
+<img alt="Night Coding" src="https://github.com/tatimun/tatimun/blob/main/Assets/CodingGif.gif?raw=true" align="center"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -20,7 +20,7 @@ I know a little bit of everything but still learning to improve them
 
 <p align="center">
 <a href="https://github.com/tatimun">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=titamun&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tatimun&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
 
