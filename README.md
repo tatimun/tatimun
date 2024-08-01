@@ -4,9 +4,9 @@
 
 💡 &nbsp;I like to learn as a hobbie so i take a lot of courses .\
 🎓 &nbsp;I'm currently studying Computer Science in Universidad Nacional de Lanus in Argentina.\
-🌱 &nbsp;I'm on track for learning more about DevOps, CyberSecurity and Cloud (But mostly devops and cybersecurity) .\
+🌱 &nbsp;I'm on track for learning more about DevOps, CyberSecurity and Cloud (But mostly devops) .\
 ✍️ &nbsp;In my free time, I like to draw and do some DIY related to clothes and doing doodles and notes of new technologies so everyone (apart from me) can undestarnd easily the topics    .\
-👷‍♀️ &nbsp; Currently, im working as Cloud Engineer 
+👷‍♀️ &nbsp; Currently, im working as DevOps Engineer 
 
 
 <img alt="Night Coding" src="https://github.com/tatimun/tatimun/blob/main/Assets/CodingGif.gif?raw=true" align="center"/>
